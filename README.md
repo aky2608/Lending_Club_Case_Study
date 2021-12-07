@@ -32,5 +32,5 @@
 
 ## Contact
 Created by 
-@ [Jibin K B] https://github.com/jibinaugustine
-@ [Ashish K Yadav] https://github.com/aky2608
+[Jibin K B](https://github.com/jibinaugustine)
+[Ashish K Yadav](https://github.com/aky2608)
